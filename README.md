@@ -2,7 +2,7 @@
 
   <div id="header" align="center">
   <img src="https://github.com/Italo0x01/Italo0x01/blob/main/unnamed.jpg" width="200"/>
-  <div id="badges">
+  </div id="badges">
 
 * I'm Italo!👨‍💻 
 * I'm interested in Cybersecurity, Penetration Testing, Threat Intelligence/Huting and Programing ⚔🕵️‍♂️
