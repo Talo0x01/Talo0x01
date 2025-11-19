@@ -5,7 +5,7 @@
   </div id="badges">
 
 * I'm Italo!👨‍💻 
-* I'm interested in Cybersecurity, Penetration Testing, Threat Intelligence/Huting and Programing ⚔🕵️‍♂️
+* I'm interested in Cybersecurity, Penetration Testing, Threat Intelligence/Huting ⚔🕵️‍♂️
 
 <p align="center">
   <a href="https://github.com/Italo0x01">
