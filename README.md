@@ -1,8 +1,12 @@
 ## 🤖H3ll0 W0rld!
 
+  <div id="header" align="center">
+  <img src="https://github.com/Italo0x01/Italo0x01/blob/main/unnamed.jpg" width="200"/>
+  <div id="badges">
+
 * I'm Italo!👨‍💻 
 * I'm interested in Cybersecurity, Penetration Testing, Threat Intelligence/Huting and Programing ⚔🕵️‍♂️
-  
+
 <p align="center">
   <a href="https://github.com/Italo0x01">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Italo0x01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
