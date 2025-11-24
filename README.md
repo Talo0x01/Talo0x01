@@ -1,7 +1,7 @@
 ## 🤖H3ll0 W0rld!
 
   <div id="header" align="center">
-  <img src="https://github.com/Italo0x01/Italo0x01/blob/main/cav.png" width="200"/>
+  <img src="https://github.com/Italo0x01/Italo0x01/blob/main/cav2.png" width="200"/>
   </div id="badges">
 
 * I'm Italo!👨‍💻 
