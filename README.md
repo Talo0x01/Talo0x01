@@ -4,7 +4,7 @@
   <img src="https://github.com/Italo0x01/Italo0x01/blob/main/cav2.png" width="200"/>
   </div id="badges">
 
-* I'm Italo!👨‍💻 
+* I'm Talo0x01!👨‍💻 
 * I'm interested in Cybersecurity, Penetration Testing, Threat Intelligence/Huting ⚔🕵️‍♂️
 
 <p align="center">
