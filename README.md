@@ -12,7 +12,7 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Talo0x01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Talo0x01">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talo0x01&layout=compact&langs_count=16&theme=merko)
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talo0x01&layout=compact&langs_count=16&theme=merko"/>
   </a>
 </p>
 
@@ -21,6 +21,7 @@
 </div>
 
 ##
+
 ### 🐍Programming Languages
 <div id="header" style="display: inline_block"><br>
 	<img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
