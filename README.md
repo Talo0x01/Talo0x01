@@ -8,11 +8,11 @@
 * I'm interested in Cybersecurity, Penetration Testing, Threat Intelligence/Huting ⚔🕵️‍♂️
 
 <p align="center">
-  <a href="https://github.com/Italo0x01">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Italo0x01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Talo0x01">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Talo0x01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Italo0x01">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo0x01&layout=compact&langs_count=16&theme=merko"/>
+  <a href="https://github.com/Talo0x01">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talo0x01&layout=compact&langs_count=16&theme=merko"/>
   </a>
 </p>
 
