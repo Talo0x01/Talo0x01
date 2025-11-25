@@ -1,4 +1,4 @@
-## 🤖H3ll0 W0rld!
+d## 🤖H3ll0 W0rld!
 
   <div id="header" align="center">
   <img src="https://github.com/Italo0x01/Italo0x01/blob/main/cav2.png" width="200"/>
@@ -27,9 +27,10 @@
 	<img align="center" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
 
+<span class="inline-block align-top">
 ### 🐧OS
 <div id="header" align="right" style="display: inline_block"><br>
-	<img align="vertical-align: top" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	<img align="right" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img align="right" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
-
+</span>
